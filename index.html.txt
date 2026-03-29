@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- TODO: Set the document title to the name of your application -->
+    <title>RankRise – Rise to the Top 🚀</title>
+    <meta name="description" content="RankRise is an smart online exam platform for students to take MCQ tests, track performance, analyze results, and improve skills to achieve top ranks easily.">
+    <meta name="author" content="Lovable" />
+
+    <!-- TODO: Update og:title to match your application name -->
+    
+    
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://storage.googleapis.com/gpt-engineer-file-uploads/O4MOtvAGwzbL6O3MIXwSHauedoA2/social-images/social-1774818121850-RankRise.webp">
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@Lovable" />
+    <meta name="twitter:image" content="https://storage.googleapis.com/gpt-engineer-file-uploads/O4MOtvAGwzbL6O3MIXwSHauedoA2/social-images/social-1774818121850-RankRise.webp">
+    <meta property="og:title" content="RankRise – Rise to the Top 🚀">
+  <meta name="twitter:title" content="RankRise – Rise to the Top 🚀">
+  <meta property="og:description" content="RankRise is an smart online exam platform for students to take MCQ tests, track performance, analyze results, and improve skills to achieve top ranks easily.">
+  <meta name="twitter:description" content="RankRise is an smart online exam platform for students to take MCQ tests, track performance, analyze results, and improve skills to achieve top ranks easily.">
+</head>
+
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
